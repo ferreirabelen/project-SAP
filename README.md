@@ -16,3 +16,5 @@ This project is a **CAP API** developed as part of an SAP course, using tools su
 - **Node.js**
 - **OData V4**
 
+## Contacto:
+<a href="https://www.linkedin.com/in/belenferreira21/">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)</a> <a href="mailto:belenferreirajobs@gmail.com">![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)</a>
