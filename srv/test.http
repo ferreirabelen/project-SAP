@@ -1,0 +1,16 @@
+//Obtener Eventos
+GET https://port4004-workspaces-ws-9cxsr.us10.trial.applicationstudio.cloud.sap/odata/v4/test/Events
+
+// Obtener el id de un evento si el participante está registrado
+GET https://port4004-workspaces-ws-9cxsr.us10.trial.applicationstudio.cloud.sap/odata/v4/test/Participants?$expand=Event
+
+POST https://port4004-workspaces-ws-9cxsr.us10.trial.applicationstudio.cloud.sap/odata/v4/test/Events/cancelEvent
+
+
+//Obtener participantes
+GET https://port4004-workspaces-ws-9cxsr.us10.trial.applicationstudio.cloud.sap/odata/v4/test/Participants
+
+//Obtener los participantes registrados en Eventos
+GET https://port4004-workspaces-ws-9cxsr.us10.trial.applicationstudio.cloud.sap/odata/v4/test/Events?$expand=Participants
+
+POST https://port4004-workspaces-ws-9cxsr.us10.trial.applicationstudio.cloud.sap/odata/v4/test/Participants/createParticipant

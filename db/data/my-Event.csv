@@ -1,0 +1,3 @@
+ID,Name,StartDate,EndDate,Location,IsActive,IsCancelled
+1,Lollapalooza,2024-12-18,2024-12-19,ARG,true,false
+2,Venta de Autos,2024-01-01,2024-01-01,USA,true,false
